@@ -1,0 +1,4 @@
+opencv_python==4.7.0.68
+paho_mqtt==2.1.0
+pandas==1.4.4
+ultralytics==8.1.27
